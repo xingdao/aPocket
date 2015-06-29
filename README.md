@@ -5,21 +5,28 @@ For the purpose to use pocket easier
 ## use
 1: install apk 
 you can see 
+
 ![start](http://qiaoblog.b0.upaiyun.com/1.jpg)
 
 2: Click "SAVE TEST" Button
 you can see 
+
 ![SAVE TEST](http://qiaoblog.b0.upaiyun.com/2.jpg)
+
 apk will try save a link to you pocket
 
 3: Click "SAVE ClIP" Button
+
 ![SAVE ClIP](http://qiaoblog.b0.upaiyun.com/3.jpg)
+
 apk will try save cilp text to you pocket
 
 4:Click "Handle action bar"
+
 ![Handle action bar](http://qiaoblog.b0.upaiyun.com/4.jpg)
 
 5: Click "about"
+
 ![about](http://qiaoblog.b0.upaiyun.com/5.jpg)
 
 ## note
@@ -49,20 +56,25 @@ intentApp.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 
 ## 使用
 1: 使用请先安装 pocket,后安装本程序
+
 ![start](http://qiaoblog.b0.upaiyun.com/1.jpg)
 
 2: 点击 SAVE TEST 按钮 
 应用尝试添加默认连接到你的Pocket中
+
 ![start](http://qiaoblog.b0.upaiyun.com/2.jpg)
     
 3: 点击 SAVE ClIP 按钮 
 应用尝试获取你剪切板的文字到你的Pocket中
+
 ![start](http://qiaoblog.b0.upaiyun.com/3.jpg)
     
 4: 点击 任务栏
+
 ![start](http://qiaoblog.b0.upaiyun.com/4.jpg)
     
 5: 点击 ABOUT 按钮 
+
 ![start](http://qiaoblog.b0.upaiyun.com/5.jpg)
     
 [apk 下载地址](http://qiaoblog.b0.upaiyun.com/app-release.apk)
