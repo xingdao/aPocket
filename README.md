@@ -28,6 +28,7 @@ app will try save cilp text to you pocket
 
 ## note
 Cause the source code should be commented and modified, it would be released later.
+
 [dwonload link](http://qiaoblog.b0.upaiyun.com/app-release.apk)
 
 ##关于
@@ -45,7 +46,7 @@ Cause the source code should be commented and modified, it would be released lat
 ###介绍
 
     这是一个 Pocket 的增强应用,故必须要安装 Pocket 才能运行.
-    程序基本思路: 正则表达式 获取 文字或图文分享中的URL,后强行调用Pocket.
+    程序基本思路: 正则表达式 获取 文字或图文分享中的URL,后强行调用 Pocket.
 
 ```java
 //默认运行为
@@ -61,23 +62,23 @@ intentApp.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 - 保存微信链接时,调用浏览器是Android自带的,如果被精简则应用报错闪退.
 
 ## 使用
-1: 使用请先安装 pocket,后安装本程序
+1: 使用请先安装 pocket, 后安装本程序
 
 ![start](http://qiaoblog.b0.upaiyun.com/1.jpg)
 
 2: 点击 SAVE TEST 按钮 
-应用尝试添加默认连接到你的Pocket中
+应用尝试添加默认链接到你的 Pocket 中
 
 ![start](http://qiaoblog.b0.upaiyun.com/2.jpg)
     
 3: 点击 SAVE ClIP 按钮 
-应用尝试获取你剪切板的文字到你的Pocket中
+应用尝试获取你剪切板的文字中链接保存到你的 Pocket 中
 
 ![start](http://qiaoblog.b0.upaiyun.com/3.jpg)
     
 4: 保存微信链接
 
-    在微信打开链接后使用浏览器打开,设置Pocket 为默认,
+    在微信打开链接后使用浏览器打开,设置 aPocket 为默认,
     如果需要用浏览器打开 那么就点击通知
     
 [apk 下载地址](http://qiaoblog.b0.upaiyun.com/app-release.apk)
