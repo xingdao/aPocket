@@ -63,8 +63,8 @@ intentApp.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 1. 不知道怎么让他静默的运行后结束.现在直接调用会显示一次黑屏
 2. 没有进行屏幕和大小优化(android.support.v7.app.ActionBarActivity 有点大)
 3. 没有自动更新的设置,也没有进行机型适配.所以有bug 欢迎在 issue 中提出
-4: 多链接支持
-5: 保存微信链接时,调用浏览器是Android自带的,如果被精简则应用报错闪退.
+4. 多链接支持
+5. 保存微信链接时,调用浏览器是Android自带的,如果被精简则应用报错闪退.
 
 ## 使用
 1: 使用请先安装 pocket,后安装本程序
@@ -82,7 +82,7 @@ intentApp.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 ![start](http://qiaoblog.b0.upaiyun.com/3.jpg)
     
 4: 保存微信链接
-在微信打开链接后使用浏览器打开,设置Pocket 为默认,
-如果需要用浏览器打开 那么就点击通知
+    在微信打开链接后使用浏览器打开,设置Pocket 为默认,
+    如果需要用浏览器打开 那么就点击通知
     
 [apk 下载地址](http://qiaoblog.b0.upaiyun.com/app-release.apk)
