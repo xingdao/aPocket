@@ -27,7 +27,9 @@ app will try save a link to you pocket
 app will try save cilp text to you pocket
 
 ## note
-Cause the source code should be commented and modified, it would be released later.
+~~Cause the source code should be commented and modified, it would be released later.~~
+
+if the app exit not normal cheak you rom have "com.android.browser" or not.
 
 [dwonload link](http://qiaoblog.b0.upaiyun.com/app-release.apk)
 
