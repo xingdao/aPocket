@@ -83,4 +83,4 @@ intentApp.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
     在微信打开链接后使用浏览器打开,设置 aPocket 为默认,
     如果需要用浏览器打开 那么就点击通知
     
-[apk 下载地址](http://qiaoblog.b0.upaiyun.com/app-release.apk)
+[apk 下载地址](https://github.com/xingdao/aPocket/releases/download/v0.1/app-release.apk)
